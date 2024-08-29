@@ -14,7 +14,8 @@
             "email": "charles.mz.lyn@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "ext-curl": "*",
         "ext-json": "*"
