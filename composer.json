@@ -1,0 +1,22 @@
+{
+    "name": "easecode/wechat",
+    "description": "Wechat interface package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Easecode\\Wechat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Charles",
+            "email": "charles.mz.lyn@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "ext-curl": "*",
+        "ext-json": "*"
+    }
+}
